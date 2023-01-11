@@ -16,12 +16,9 @@
 11 hoge
 14 hoge
 15 hoge
-<<<<<<< HEAD
 higehigehigehigehig
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 usooooooooooooooooooooooooooo
 sugooooooooooooooooooooooooooooooi
 yadaaaaaaaaaaaaaaaaaaa
-=======
 
->>>>>>> master

@@ -21,8 +21,5 @@
 11 hoge
 14 hoge
 15 hoge
-<<<<<<< HEAD
 hogehogehoge
-=======
 
->>>>>>> master

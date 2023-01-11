@@ -1,4 +1,5 @@
 1 今日はgit道場に参加してる  hoge
+1_1 higehogehigehogehigehoge
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
 3 コンフリクトするのは怖い hoge
@@ -9,7 +10,5 @@
 8 hoge
 10 hoge
 11 hoge
-12 hoge
-13 hoge
 14 hoge
 15 hoge
